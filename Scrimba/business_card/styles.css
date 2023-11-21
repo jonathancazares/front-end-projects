@@ -1,0 +1,23 @@
+body {
+    margin: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.flex-card {
+    display: flex;
+    width: 390px;
+    margin: auto;
+    padding: 25px 40px;
+    justify-content: space-between;
+    border-bottom: 5px solid #b8b8ff;
+    border-right: 4px solid #b8b8ff;
+    border-radius: 10px;
+    background: #d3e0ff;
+    color: #2b2839;
+}
+.profile-pic {
+    width: 150px;
+    border-radius: 3%;
+}
+.item {
+    text-align: center;
+}
