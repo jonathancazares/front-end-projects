@@ -17,5 +17,5 @@ A project designed to promote Mexico City. I used Flexbox to create a responsive
 
 ## Color Palette
 
-<img src="i./images/color_palette.png" width="300">
+<img src="./images/color_palette.png" width="300">
 
