@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#header-section {
+    min-height: 700px;
+    background-image: url("./images/main-image.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+#city-name {
+    background: #1D2635;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+#city-description {
+    max-width: 530px;
+    text-align: center;
+    background: #3C4C5E;
+    padding: 10px 5px;
+    border-radius: 6px;
+}
+
+#activities-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #eae7e3;
+    color: #ffffff;
+    min-height: 700px;
+}
+
+.item {
+    margin: 40px auto;
+}
+
+#activities-title {
+    background: #3C4C5E;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+#activities-container {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container {
+    background: #3C4C5E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 20px;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.container:hover {
+    background: #1D2635;
+}
+
+.activity-description {
+    text-align: center;
+    max-width: 300px;
+}
+
+.activity-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#guide-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+    background: #3C4C5E;
+}
+
+#guide-title {
+    background: #eae7e3;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+#guide-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+}
+
+#card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background: #eae7e3;
+    padding: 20px;
+    margin: 20px 40px 40px;
+    border-radius: 6px;
+}
+
+.card-container {
+    margin: 10px 20px;
+}
+
+#guide-description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#guide-quote 
+{
+    max-width: 300px;
+    text-align: justify;
+}
