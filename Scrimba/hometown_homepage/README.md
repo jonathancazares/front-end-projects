@@ -1,4 +1,4 @@
-# Hometowm Homepage Project (Nov 28, 2023)
+# Hometowm Homepage (Project)
 
 First solo project from Scrimba's Front-End Developer Path (Module 2). 
 
