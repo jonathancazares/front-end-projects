@@ -8,4 +8,4 @@ A project designed to promote Mexico City. I used Flexbox to create a responsive
 
 ## Screenshots
 
-![screenshot](./images/screenshot.png) { width: 500px; }
+![screenshot](./images/screenshot.png)
