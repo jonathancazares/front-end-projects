@@ -1,19 +1,20 @@
-# Hometowm Homepage (Project)
+# Counter App (Project)
 
-First solo project from Scrimba's Front-End Developer Path (Module 2). 
+Project from Scrimba's Front-End Developer Path (Module 3). 
 
 ## About
 
-A project designed to promote Mexico City. I used Flexbox to create a responsive design and pseudo-classes to make it interactive. 
+A project focused on undestand basic JavaScript concepts and syntax. A project focused on understanding basic JavaScript concepts and syntax. I created three functions: **increment(), decrement(), and restart()** to modify the count variable (numeric value). 
 
 ## Built with
 
 - HTML5
 - CSS
+- JavaScript
 
 ## Live URL
 
-- [Hometown Homepage](https://jonathancazares.github.io/front-end-projects/Scrimba/hometown_homepage/)
+- [Counter App](https://jonathancazares.github.io/front-end-projects/Scrimba/counter_app/)
 
 ## Screenshots
 
@@ -21,13 +22,8 @@ A project designed to promote Mexico City. I used Flexbox to create a responsive
 
 ## Color Palette
 
-<img src="./images/color_palette.png" width="400">
+<img src="./images/palette.png" width="400">
 
 ## Contrast Check 
 
-<img src="./images/contrast_check.png" width="400">
-
-## Credits
-
-- [Anna Petrow Photography](https://www.annapetrow.com/mexico-city)
-
+<img src="./images/checker.png" width="400">
