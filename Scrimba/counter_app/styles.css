@@ -54,13 +54,17 @@ button {
 
 #restart {
     background: #1F2937;
-    border: 2px solid #8093f1;
+    border: 3px solid #8093f1;
     margin-left: 0px;
     margin-right: 0px;
 }
 
 button:active {
     background: #6f7fd2;
+}
+
+button:hover {
+    cursor: pointer;
 }
 
 #restart:active {
