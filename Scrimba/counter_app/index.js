@@ -1,6 +1,6 @@
 let count = 0;
-let counter = document.getElementById("counter");
-let history = document.getElementById("previous-count")
+const counter = document.getElementById("counter");
+const history = document.getElementById("previous-count")
 
 function increment() {
     count += 1;
