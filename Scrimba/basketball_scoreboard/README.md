@@ -1,33 +1,27 @@
-# Hometowm Homepage (Project)
+# Basketball Scoreboard (Project)
 
-First solo project from Scrimba's Front-End Developer Path (Module 2). 
+Solo project from Scrimba's Front-End Developer Path (Module 3). 
 
 ## About
 
-A project designed to promote Mexico City. I used Flexbox to create a responsive design and pseudo-classes to make it interactive. 
+A simple version of a basketball scoreboard to understand basic JavaScript concepts (variables, functions, math operations, etc). 
 
 ## Built with
 
 - HTML5
 - CSS
+- JavaScript
 
 ## Live URL
 
-- [Hometown Homepage](https://jonathancazares.github.io/front-end-projects/Scrimba/hometown_homepage/)
+- [Basketball Scoreboard](https://jonathancazares.github.io/front-end-projects/Scrimba/basketball_scoreboard/)
 
 ## Screenshots
 
 ![screenshot](./images/screenshot.png)
 
-## Color Palette
+## Things I want to improve/add
 
-<img src="./images/color_palette.png" width="400">
-
-## Contrast Check 
-
-<img src="./images/contrast_check.png" width="400">
-
-## Credits
-
-- [Anna Petrow Photography](https://www.annapetrow.com/mexico-city)
-
+- Make it responsive
+- Implement conditional statements to find a winner (when their points are equal to or greater than 21)
+- Undestand how to create a timer
